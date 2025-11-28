@@ -1,0 +1,8 @@
+body { font-family: Arial; background:#f3f3f3; margin: 0; }
+.card { width:300px; margin:auto; padding:20px; background:white; margin-top:50px; border-radius:8px; }
+input { width:100%; padding:10px; margin:8px 0; border:1px solid #aaa; border-radius:5px; }
+button { padding:10px; width:100%; background:black; color:white; border:none; border-radius:5px; cursor:pointer; }
+.nav { background:black; padding:10px; display:flex; gap:10px; }
+.nav a, .nav button { color:white; text-decoration:none; background:none; border:none; cursor:pointer; }
+ul { list-style:none; padding:0; }
+li { margin-top:6px; background:#ddd; padding:6px; border-radius:4px; display:flex; justify-content:space-between; }
